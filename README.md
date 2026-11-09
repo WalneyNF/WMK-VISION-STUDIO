@@ -1,6 +1,6 @@
 <div align="center">
 
-![WMK Vision Studio — marca oficial](logo-wmk.png)
+![WMK Vision Studio — marca oficial](static/logo-wmk.png)
 
 # WMK VISION STUDIO
 

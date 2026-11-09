@@ -1,0 +1,9 @@
+{
+  "tipo": "EXEMPLO DIDATICO; NAO E UM RESULTADO DESTA INSTALACAO",
+  "video": "vehicles.mp4",
+  "modelo": "yolo11n.pt",
+  "quadros_lidos": 538,
+  "segundos_execucao": 75.57,
+  "cruzamentos_linha": {"entrada": 3, "saida": 4},
+  "observacao": "Valores observados em uma execucao anterior compartilhada pelo mantenedor; podem variar entre versoes, parametros e ambiente."
+}

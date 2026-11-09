@@ -1,0 +1,8 @@
+{
+  "observacao": "Presets educativos: configuração manual, não importável pela interface v1.2.",
+  "experimentos": [
+    {"nome":"Transito basico", "video":"vehicles", "modelo":"yolo11n.pt", "resolucao":416, "confianca":0.35, "apenas_veiculos":true, "intervalo":1, "dispositivo":"cpu"},
+    {"nome":"Pessoas", "video":"people-walking", "modelo":"yolo11n.pt", "resolucao":640, "confianca":0.35, "apenas_veiculos":false, "intervalo":1, "dispositivo":"cpu"},
+    {"nome":"Industria - observar limites", "video":"milk-bottling-plant", "modelo":"yolo11n.pt", "resolucao":640, "confianca":0.25, "apenas_veiculos":false, "intervalo":1, "dispositivo":"cpu"}
+  ]
+}
